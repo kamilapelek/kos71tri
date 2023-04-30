@@ -1,0 +1,41 @@
+body {
+    background-color: #1e1e1e;
+}
+
+.header {
+    position: relative;
+    display: flex;
+    left: 39%;
+    color: aliceblue;
+    font-size: 170%;
+}
+
+#sete{
+    color: #ee0763;
+}
+
+.subtítulo{
+    position: relative;
+    left: 41%;
+    top: -50px;
+    color: aliceblue;
+}
+
+.home {
+    position: relative;
+    left: 35%;
+    color: aliceblue;
+}
+
+.catálogodeedições{
+    position: relative;
+    left: 50%;
+    color: aliceblue;
+    top: -40px;
+}
+
+.tituloconteudoprincipalsobre{
+    color: #ee0763;
+    font-size: x-large;
+
+}
